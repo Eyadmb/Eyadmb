@@ -1,5 +1,4 @@
 <h2> Hi, I'm Eyad Mohamed! 
-<p><em>Developer at <a href="http://qadr.pro">Qadr Ai</a>
 </em></p>
 
 
